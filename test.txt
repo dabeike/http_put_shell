@@ -1,0 +1,3 @@
+lvyou.baidu.com 80 php
+www.cnblogs.com 80 aspx
+www.hjenglish.com 80 asp
